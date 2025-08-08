@@ -63,6 +63,7 @@ This helps businesses understand customer types for targeted marketing and impro
 ---
 ## 📈 The Elbow Method Graph
 ![Elbow Method](TheElbowMethod.png)
+
 From this graph it is clear that there should a total of 5 Clusters
 
 ## 📈 Visualization Example
