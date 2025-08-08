@@ -61,6 +61,11 @@ This helps businesses understand customer types for targeted marketing and impro
    - Visual interpretation of customer segments
 
 ---
+
+## 🔗 Open in Google Colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RiyaSharma-11/PRODIGY_ML_02/blob/main/PRODIGY_ML_02.ipynb)
+
+
 ## 📈 The Elbow Method Graph
 ![Elbow Method](TheElbowMethod.png)
 
