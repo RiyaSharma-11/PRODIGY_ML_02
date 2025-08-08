@@ -64,7 +64,7 @@ This helps businesses understand customer types for targeted marketing and impro
 
 ## 📈 Visualization Example
 
-![Customer Segments](images/Cluster Of Customers.png)
+![Customer Segments](ClusterOfCustomers.png)
 
 ---
 
